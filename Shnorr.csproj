@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>Андреева Полина</Authors>
+    <Company>НИУ МЭИ 2023</Company>
+    <Version>1.0.0.0</Version>
+    <Product>Протокол ЭЦП Шнорра</Product>
+    <Description>Расчетное задание
+Вариант 2.5. Программная реализация протокола электронной цифровой подписи Шнорра</Description>
+    <Copyright>А-05-19 Андреева Полина</Copyright>
+  </PropertyGroup>
+
+</Project>
